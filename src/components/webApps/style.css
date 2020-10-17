@@ -1,7 +1,7 @@
 #webapps{
     background-color: black;
     background-image: url(/img/background_webapp.png);
-    background-size: 100%;
+    background-size: 100% 100%;
     min-height: 875px;
     padding-left: 187px;
     color: white;
