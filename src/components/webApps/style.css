@@ -43,5 +43,6 @@
 @media screen and (max-width:400px){
     #webapps{
         padding: 0;
+        min-height: 100vh !important;
     }
 }

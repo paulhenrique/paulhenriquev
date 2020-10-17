@@ -46,7 +46,7 @@
         background-size: auto 100%;
         background-position: right;
         background-repeat: no-repeat;
-        min-height: 150vh !important;
+        min-height: 100vh !important;
     }
     .container-items{
         width: 100% !important;
