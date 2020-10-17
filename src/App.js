@@ -7,7 +7,7 @@ import './assets/style/global.css';
 function App() {
   return (
     <body>
-      <Navbar />
+      <Navbar/>
       <Header/>
       <Graphic />
     </body>
