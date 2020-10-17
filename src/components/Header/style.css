@@ -1,0 +1,18 @@
+#header{
+    background-color: black;
+    background-image: url(/img/background_header.png);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#page-header-title{
+    text-align: center;
+    font-size: 46px;
+    color: white;
+}
+
+#page-header-title span{
+    color:#27AE60;
+}
