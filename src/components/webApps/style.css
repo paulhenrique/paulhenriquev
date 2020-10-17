@@ -39,3 +39,9 @@
     left: -21px;
     max-width: 176px;
 }
+
+@media screen and (max-width:400px){
+    #webapps{
+        padding: 0;
+    }
+}

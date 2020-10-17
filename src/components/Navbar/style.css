@@ -2,7 +2,7 @@
     position: absolute;
     top: 41px;
     left: 0;
-    width:100%;
+    width:100vw;
     padding: 0 2rem;
     height: 42px;
     display: flex;
@@ -27,4 +27,10 @@
 }
 .navbar-items li.navbar-item a:hover{
     color: var(--green-color);
+}
+
+@media screen and (max-width:400px){
+    #navbar{
+        display: none;
+    }
 }
