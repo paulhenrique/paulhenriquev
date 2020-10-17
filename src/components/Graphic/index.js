@@ -9,6 +9,22 @@ function Graphic(){
                 <h1>Graphic Works</h1>
             </header>
             <section class="container-items">
+            <div class="card-item">
+                    <h3 class="card-title">Projeto Cada Gota Vale</h3>
+                    <img src={card1} alt="Cada Gota Vale" class="card-image"/>
+                </div>
+                <div class="card-item">
+                    <h3 class="card-title">Projeto Cada Gota Vale</h3>
+                    <img src={card1} alt="Cada Gota Vale" class="card-image"/>
+                </div>
+                <div class="card-item">
+                    <h3 class="card-title">Projeto Cada Gota Vale</h3>
+                    <img src={card1} alt="Cada Gota Vale" class="card-image"/>
+                </div>
+                <div class="card-item">
+                    <h3 class="card-title">Projeto Cada Gota Vale</h3>
+                    <img src={card1} alt="Cada Gota Vale" class="card-image"/>
+                </div>
                 <div class="card-item">
                     <h3 class="card-title">Projeto Cada Gota Vale</h3>
                     <img src={card1} alt="Cada Gota Vale" class="card-image"/>
