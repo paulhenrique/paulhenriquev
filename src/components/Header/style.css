@@ -14,5 +14,5 @@
 }
 
 #page-header-title span{
-    color:#27AE60;
+    color:var(--green-color);
 }

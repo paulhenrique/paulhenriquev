@@ -1,0 +1,29 @@
+#navbar{
+    position: fixed;
+    top: 41px;
+    left: 0;
+    width:100%;
+    padding: 0 2rem;
+    height: 42px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    color: white;
+}
+#title-site{
+    font-size: 35px;
+}
+.navbar-items{
+    display: flex;
+    list-style: none;   
+}
+.navbar-items li.navbar-item a{
+    color: white;   
+    text-decoration: none;
+    margin: 20px;
+    font-weight: normal;
+}
+.navbar-items li.navbar-item a:hover{
+    color: var(--green-color);
+}
